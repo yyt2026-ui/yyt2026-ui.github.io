@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>我的小主页</title>
+</head>
+<body>
+    <h1>语音条</h1>
+    < img src="avatar.jpg" alt="touxuang2.png" width="160">
+
+    <hr>
+
+    <h2>👋关于我</h2>
+    <p>普通在校学生，上课忙忙碌碌，<strong>只是闲来没事玩玩网页</strong>，并不是专门学做网站的。遇到不懂就上网搜搜资料,我爱豆包☺，
+    参考：<a href=" ">MDN Web Docs</a >。
+    </p >
+    <blockquote>
+        随便写写页面，当个小记录。
+    </blockquote>
+
+    <h2>🎯平时喜欢</h2>
+    <ul>
+        <li>看美女姐姐</li>
+        <li>偶尔看看书</li>
+        <li>出门散步溜达</li>
+        <li>刷视频摸鱼</li>
+    </ul>
+
+    <h2>📋近期想完成的小事</h2>
+    <ol>
+        <li>把作业按时搞定</li>
+        <li>通过微积分和化学期中考</li>
+        <li>多出去走走，少久坐</li>
+	<li>学摄影</li>
+	<li>熟练英语/(ㄒoㄒ)/~~ 寒窗苦读十几年，词汇量不足5000，听力更不要说了</li>
+	 <li>捣鼓完这个简单个人页面</li>
+    </ol>
+
+    <h2>💻随手贴一段代码：
+#include <stdio.h>
+
+int main(void)
+{
+    printf("👋 你好，欢迎浏览我的主页！\n");
+    printf("这是一段C语言小程序\n");
+    return 0;
+}
+（只是示例，不是我天天写）</h2>
+<pre><code>
+#include &lt;stdio.h&gt;
+int main(){
+    printf("快乐过日子！");
+    return 0;
+}
+</code></pre>
+
+    <h2>🔗一些链接
+https://zhongyangnailongdaxue.com
+(同学做的，作个引用）
+</h2>
+    <p>GitHub：<a href="https://github.com">github.com</a ></p >
+
+    <h2>📞联系：19114472386</h2>
+    <p>邮箱：2677751288@qq.com<br>
+     </p >
+
+    <hr>
+    <p><em>©2026 随便做做的小页面</em></p >
+	<script>
+    alert("嗨！欢迎来到我的个人小主页😊");
+</script>
+</body>
+</html>
